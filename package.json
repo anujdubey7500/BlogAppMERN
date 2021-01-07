@@ -9,10 +9,10 @@
     "test": "cross-env NODE_ENV=test jest --verbose --runInBand -- blog_api",
     "start:test": "cross-env NODE_ENV=test nodemon index.js"
   },
-  "author": "Ivan Mijanovic",
-  "license": "MIT",
+  "author": "",
+  "license": "",
   "dependencies": {
-    "@sendgrid/mail": "^7.2.5",
+    
     "bcrypt": "^5.0.0",
     "compression": "^1.7.4",
     "cookie-parser": "^1.4.5",
